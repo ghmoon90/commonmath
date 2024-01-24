@@ -8,10 +8,15 @@
 
 
 ## environment set
-	
-	
-	
+	tool chain 
+	- cygwin or mingW, any gcc compiler
+	- or MS visual studio compiler	
+
+
 ## user manual 
+
+### run excutible
+
 	
 ### how to set a matrix 
 
